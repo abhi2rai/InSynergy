@@ -1,0 +1,25 @@
+{
+ "applicationName":"InSynergy",
+ "applicationId":"com.sencha.touch.app",
+ "versionString":"1.0",
+ "versionCode":"1",
+ "icon": {
+ "36":"resources/icons/Icon_Android36.png",
+ "48":"resources/icons/Icon_Android48.png",
+ "57":"resources/icons/Icon.png"
+ },
+ "inputPath":"./",
+ "outputPath":"../build/",
+ "configuration":"Debug",
+ "platform":"Android",
+ "notificationConfiguration":"debug",
+ "sdkPath":"/Users/abhishekrai/Documents/Development/adt-bundle-mac-x86_64-20130522/sdk", //mention the SDK path on your system
+ "androidAPILevel":"15", //android 4.1.2
+ "permissions":[ 
+ "INTERNET",
+ "ACCESS_NETWORK_STATE"
+ ],
+ "orientations": [
+ "portrait"
+ ]
+}

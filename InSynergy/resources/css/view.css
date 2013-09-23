@@ -1,0 +1,28 @@
+.submit{
+    width:30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    font-family: hul;
+}
+.assess{
+    width:50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    font-family: hul;
+}
+.enquiry{
+    width:50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    font-family: hul;
+}
+
+.panell{
+    margin-left: 10%;
+}
+
+.panelr{
+    margin-right: 10%;
+}
